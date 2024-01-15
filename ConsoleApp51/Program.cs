@@ -10,6 +10,7 @@ namespace ConsoleApp51
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
         }
     }
 }
